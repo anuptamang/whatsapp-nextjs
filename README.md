@@ -5,6 +5,7 @@
 - NextJS
 - Hooks
 - Refs
+- Styled Components
 - React-Firebase-Hooks
 - Firebase DB, Auth
 - MaterialUI
